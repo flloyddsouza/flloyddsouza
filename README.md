@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flloyddsouza
-- 👀 I’m interested in Mobile Application development 
-- 🌱 I’m currently learning Masters of Information Technology 
+- 👀 I’m am a Mobile Developer 
+- 🌱 I have studied Masters of Information Technology 
 - 📫 You can reach me @ dsouzaflloyd.11@gmail.com
 
 <!---
